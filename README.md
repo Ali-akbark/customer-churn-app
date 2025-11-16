@@ -1,18 +1,4 @@
-🔥 Perfect — let’s upgrade your GitHub repo into a **portfolio-ready, production-grade project** with:
 
-# ✅ 1. A Professional README
-
-# ✅ 4. GitHub Actions CI/CD
-
-# ✅ 5. Free Streamlit Cloud Deployment
-
----
-
-# ✅ **STEP 1 — Your Professional README (Copy-Paste into README.md)**
-
-Below is a **fully polished, premium-level README** perfect for interviews, LinkedIn, and portfolio.
-
----
 
 ## 🚀 **Customer Churn Prediction App (FastAPI + Streamlit + Docker + Azure VM)**
 
